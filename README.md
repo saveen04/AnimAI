@@ -54,7 +54,7 @@ Detect animal species from uploaded images or live camera feed using a trained *
 | Authentication | JWT, bcryptjs, Cookies          |
 | Database       | MongoDB                         |
 | AI/ML          | TensorFlow, Keras, FastAPI      |
-| Dataset        | TensorFlow Datasets             |
+| Dataset        | Kaggle Datasets             |
 
 ---
 
